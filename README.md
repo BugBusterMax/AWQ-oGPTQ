@@ -1,1 +1,1 @@
-These are several project scripts for the AWQ-oGPTQ large model quantization method (not yet fully organized), and their performance exceeds that of the current AWQ and GPTQ quantization methods.
+These are several project scripts for the AWQ-oGPTQ large model quantization method (not yet fully organized). They need to be used to replace the corresponding scripts in the official AWQ and GPTQ libraries and then compiled. This method outperforms the current AWQ and GPTQ quantization methods.
