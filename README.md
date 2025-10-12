@@ -1,1 +1,23 @@
-These are several project scripts for the AWQ-oGPTQ large model quantization method (not yet fully organized). They need to be used to replace the corresponding scripts in the official AWQ and GPTQ libraries and then compiled. This method outperforms the current AWQ and GPTQ quantization methods.
+# AWQ-oGPTQ: Advanced Large Model Quantization
+
+🚀 **A cutting-edge quantization method that outperforms current AWQ and GPTQ techniques**
+
+## Overview
+
+This repository contains several project scripts implementing the **AWQ-oGPTQ** large model quantization method - an advanced approach that demonstrates superior performance compared to existing AWQ and GPTQ quantization methods.
+
+> ⚠️ **Note**: This is an ongoing project that the files are not yet fully organized.
+
+## Quick Start
+
+### Installation & Setup
+
+The effectiveness of this method has been verified. However, owing to the files are not yet fully organized, you'll need to replace the corresponding scripts in the official AWQ and GPTQ libraries in order to use AWQ-oGPTQ:
+
+```bash
+# 1. Clone or download these scripts
+git clone [repository-url]
+cd AWQ-oGPTQ
+
+# 2. Replace the corresponding scripts in the official AWQ/GPTQ installations
+# 3. Compile the modified libraries
