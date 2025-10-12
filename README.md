@@ -12,7 +12,7 @@ This repository contains several project scripts implementing the **AWQ-oGPTQ** 
 
 ### Installation & Setup
 
-The effectiveness of this method has been verified. However, owing to the files are not yet fully organized, you'll need to replace the corresponding scripts in the official AWQ and [GPTQ repository](https://github.com/IST-DASLab/gptq) in order to use AWQ-oGPTQ:
+The effectiveness of this method has been verified. However, owing to the files are not yet fully organized, you'll need to replace the corresponding scripts in the official [AWQ repository](https://github.com/mit-han-lab/llm-awq) and [GPTQ repository](https://github.com/IST-DASLab/gptq) in order to use AWQ-oGPTQ:
 
 ```bash
 # 1. Clone or download these scripts
