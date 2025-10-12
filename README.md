@@ -16,8 +16,7 @@ The effectiveness of this method has been verified. However, owing to the files 
 
 ```bash
 # 1. Clone or download these scripts
-git clone [repository-url]
+git clone https://github.com/BugBusterMax/AWQ-oGPTQ.git
 cd AWQ-oGPTQ
-
 # 2. Replace the corresponding scripts in the official AWQ/GPTQ installations
 # 3. Compile the modified libraries
